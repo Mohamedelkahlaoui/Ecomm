@@ -9,7 +9,7 @@ Ce projet permet aux utilisateurs d'ajouter et de supprimer des produits de leur
 2.	Créez un environnement virtuel en utilisant virtualenv.
 3.	Activez lenvironnement virtuel.
 ```
-    
+   
 ## Run Locally
 
 Clone the project
