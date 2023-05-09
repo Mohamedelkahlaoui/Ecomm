@@ -1,0 +1,15 @@
+asgiref //fournit deux enveloppes qui vous permettent de passer d'un code asynchrone à un code synchrone à volonté, tout en prenant en charge les aspects les plus délicats pour vous.
+certifi //fournit une collection de certificats racine soigneusement sélectionnés par Mozilla pour valider la fiabilité des certificats SSL tout en vérifiant ...
+chardet //Détecteur d'encodage universel pour Python 3.
+Django 
+django-admin-honeypot //est un faux écran de connexion à l'administrateur de Django qui enregistre et notifie les administrateurs en cas de tentative d'accès non autorisé
+django-admin-thumbnails //pour vous aider à ajouter des vignettes pour les champs d'image de votre modèle dans les vues de liste et les formulaires d'administration d'une manière raisonnablement DRY.
+django-session-timeout //Middleware pour expirer les sessions après un certain temps
+idna //contient quelques fonctions permettant de gérer les noms de domaine internationalisés.
+Pillow //Cette bibliothèque offre une prise en charge étendue des formats de fichiers, une représentation interne efficace et des capacités de traitement d'images assez puissantes.
+python-decouple //est une excellente bibliothèque qui vous aide à séparer strictement les paramètres de configuration de votre code source.
+pytz //Cette bibliothèque permet d'effectuer des calculs de fuseaux horaires précis et multiplateformes en utilisant Python 2.4 ou une version plus récente.
+requests //Le module requests permet d'envoyer des requêtes HTTP à l'aide de Python.
+six //Il fournit des fonctions utilitaires pour aplanir les différences entre les versions de Python, dans le but d'écrire du code Python compatible avec les deux versions de Python.
+sqlparse // Il permet d'analyser, de diviser et de formater les instructions SQL.
+urllib3 //est un client HTTP puissant et convivial pour Python.
